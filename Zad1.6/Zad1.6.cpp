@@ -41,7 +41,7 @@ void howMany(float value)
 
 }
 
-
+//komentarz testowy
 int main()
 {
     howMany(123.45f);
