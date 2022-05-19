@@ -35,6 +35,9 @@ int main()
         std::cout << tab[i] << std::endl;
 
     }
+
+    std::cout << rand() << std::endl;
+
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
