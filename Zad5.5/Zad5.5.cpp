@@ -115,12 +115,12 @@ void drawFigureD(int h) {
 
 int main()
 {
-    drawFigureA(10);
-    drawFigureB(10);
-    drawFigureBv2(10);
-    drawFigureBv3(10);
-    drawFigureC(10);
-    drawFigureD(9);
+    drawFigureA(3);
+    //drawFigureB(10);
+    //drawFigureBv2(10);
+    //drawFigureBv3(10);
+    //drawFigureC(10);
+    //drawFigureD(9);
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
